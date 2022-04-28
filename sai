@@ -1,0 +1,43 @@
+ℹ️ GreenLife
+Green Life is a very good website. Green life contain challenges for plantion of trees. 🌳🌴
+
+Plantion of trees is good for earth and environment🌏
+
+👁️‍🗨️ Preview of GreenLife Website
+ Greenlife_Desktop.mp4 
+No Responsive Design 📱🥲
+
+🗂️ Framework
+The below table framework's is used in this project. To run this project. This Framework's has been installed in system with Same Version or Latest Version
+
+Framework	Version
+Node.js	16.14.2
+Tailwindcss	3.0.23
+👨‍💻 Command for Execute Project
+npm run runserver
+⬇️ Code Downloading Process
+You Can Download the code in 2 Methods
+Choose Any One Methode has your whish
+Ⓜ️ Methode 1
+This Methode is Very Easy
+
+Now Click on Code Option
+
+Screenshot (158)
+
+Now A Screen will Popup. Now Click Download Zip Option . Now the file has been started downloading
+Screenshot (159)
+
+Ⓜ️ Methode 2
+This Methode is tittle bit Hard
+
+Now Open cmd in windows, bash Terminal in mac. Now Hit the Below Command's
+
+git clone https://github.com/Manju1392k/GreenLife-Website.git
+The project cloned after this process
+📦 Extra Packages for Project
+This packages are important for project without this package's the project can't run.
+For Node Modules
+npm install node
+For Vite Development Server
+npm install vite
